@@ -380,6 +380,10 @@
     <Compile Include="GameClasses\Attack.cs" />
     <Compile Include="GameClasses\TeleportWorld.cs" />
     <Compile Include="GameClasses\Humanoid.cs" />
+    <Compile Include="Lift\Console_Lift_Patch.cs" />
+    <Compile Include="Lift\ZNetScene_Lift_Patch.cs" />
+    <Compile Include="Lift\Lift.cs" />
+    <Compile Include="Lift\LiftControlls.cs" />
     <Compile Include="RPC\VPlusAck.cs" />
     <Compile Include="Utility\ListExtensions.cs" />
     <Compile Include="Utility\RPCQueue.cs" />
